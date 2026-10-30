@@ -1,0 +1,14 @@
+# KiCad project-specific ignores
+*.kicad_prl
+*.bak
+*-bak*
+_autosave-*
+*.lck
+*.tmp
+*.orig
+.history/
+
+# OS-specific
+Thumbs.db
+Desktop.ini
+.DS_Store
